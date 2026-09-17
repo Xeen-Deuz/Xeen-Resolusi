@@ -1,2 +1,3 @@
 # Xeen-Resolusi
-Repository untuk menyimpan resolusi tahunan
+Repository untuk menyimpan seluruh resolusi tahunan
+
